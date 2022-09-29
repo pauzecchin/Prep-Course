@@ -1,0 +1,27 @@
+*Variables: "es una cajita donde guardo cosas para usar despues"
+
+*Strings: "es un hilo de letras que empieza y termina con comillas "
+
+*Funciones (argumentos, return)
+"las funciones son tareas"
+"la funcion es una herramienta que sirve para evitar reescribir varias veces el mismo código que hace lo mismo"
+"los argumentos son los valores que se le pasan a la funcion cuando es invocada"
+
+ej:
+
+function sumarDosNuemeros (a,b){
+    var suma = a+b;
+    return suma;
+}
+sumarDosNuemeros (1,5);
+6
+}
+
+"a" y "b" son parametros que luego son reemplazados al invocar la funcion por "1" y "5" que son argumentos.
+"return es la ultima isntruccion dentro de una funcion, devuelve un resultado"
+
+
+*Declaraciones if "son estructuras que sirven para tomar decisiones"
+"Es un condicional que sirve para realizar unas u otras operaciones en función de una expresión"
+
+*Valores booleanos (true, false) "para validar cosas"; "para validar si tomamos una decision o no"
