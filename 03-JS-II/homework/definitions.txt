@@ -7,6 +7,6 @@ De entre todos los bucles, el FOR se suele utilizar cuando sabemos seguro el nú
 
 *Los operadores lógicos se usan para combinar dos valores Booleanos y devolver un resultado verdadero, 
 falso o nulo. Los operadores lógicos también se denominan operadores Booleanos.
-&& AND (el resultado es verdadero si ambas expresiones son verdaderas)
-|| OR (el resultado es verdadero si alguna expresión es verdadera)
-! NOT (el resultado invierte la condición de la expresión)
+&& AND (el resultado es verdadero si ambas expresiones son verdaderas).
+|| OR (el resultado es verdadero si alguna expresión es verdadera).
+! NOT (el resultado invierte la condición de la expresión).
